@@ -12,5 +12,5 @@
   * [x] Installation (Slack)
   * [x] Installation éditeur de code (Vim + VS Code)
   * [x] Installation navigateur (Developper Edition)
-  * [ ] Création et configuration Mail pro 
+  * [x] Création et configuration Mail pro 
   * [x] Création et configuration Twitter pro 
