@@ -2,7 +2,7 @@
 
 ## Mardi 23/07/2019
 
-* [ ] Découverte du Markdown : 
+* [x] Découverte du Markdown : 
   * [x] Comprendre l'intérêt du Markdown
   * [x] Découvrir les balises de bases : 
     * [x] Titres

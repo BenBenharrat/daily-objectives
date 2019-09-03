@@ -10,7 +10,7 @@
 * [x] Algo : 
   * [x] Découvrir le tri par selection (Selection Sort)
 
-* [ ] CSS : 
+* [x] CSS : 
   * [x] Savoir manipuler les polices en CSS
   * [x] Découvrir Google Fonts
   * [x] Savoir intégrer des polices extérieures dans le CSS
