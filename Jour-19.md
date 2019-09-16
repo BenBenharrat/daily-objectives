@@ -7,7 +7,7 @@
   * [x] Comprendre le fonctionnement du `switch` (https://javascript.info/switch) => **+ Exercices**
   * [x] Comprendre le fonctionnement des fonctions (https://javascript.info/function-basics) => **+ Exercices**
   * Comprendre les différences entre `function declaration`, `function-expression` et `arrow functions` (https://javascript.info/function-expressions-arrows) => **+ Exercices**
-  * [ ] S'assurer que toutes les notions dans la page `Javascript special` sont bien acquises.
+  * [x] S'assurer que toutes les notions dans la page `Javascript special` sont bien acquises.
 
 * [ ] Algo : 
   * [ ] Ecrire en pseudocode le Merge Sort (création pure)
