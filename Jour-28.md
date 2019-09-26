@@ -10,7 +10,7 @@
   
 
 
-* [ ] DOM : 
+* [x] DOM : 
 
   * [x] Comprendre le `Bubbling` et le `Capturing` (https://javascript.info/bubbling-and-capturing)
 
