@@ -4,7 +4,7 @@
 
 ### Javascript :
 
-  * [ ] Comprendre et maitriser le `spread operator` et les `rest parameters`
+  * [x] Comprendre et maitriser le `spread operator` et les `rest parameters`
     (http://javascript.info/rest-parameters-spread-operator)
 
 ### Vue JS : 
